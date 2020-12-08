@@ -1,18 +1,30 @@
 
 {
-  "caseStudies": [
-       {
-          "id": "ghost-whey-x-chips-ahoy",
-          "name": "Ghost Whey X Chips Ahoy",
-          "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/image.png?v=1571331841"
-        },
-      {
-          "id": "ghost-whey-vegan",
-          "name": "GHOST® Vegan Protein",
-          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
-        }
+  "brands": [
+    {
+      "id": "nike",
+      "name": "Nike",
+      "details": "Just Do It (stylized as JUST DO IT. and set in Futura Bold Condensed) is a trademark of shoe company Nike, and it is one of the core components of Nike's brand. The slogan was coined in 1988 at an advertising agency meeting.",
+      "image": "https://images.unsplash.com/photo-1485395037613-e83d5c1f5290?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2700&q=80"
+    },
+    {
+      "id": "adidas",
+      "name": "Adidas",
+      "details": "The Adidas Slogan: “Impossible is Nothing” to “Adidas is All In” Adidas, a company that started off with a core vision to support athletes, has always been true to its positioning that is highlighted by the old Adidas slogan, “Impossible is Nothing.”",
+      "image": "https://images.unsplash.com/photo-1525092029632-cb75fe5dd776?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2700&q=80"
+    },
+    {
+      "id": "puma",
+      "name": "Puma",
+      "details": "Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world.",
+      "image": "https://images.unsplash.com/photo-1581923597046-427a5d83f932?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2487&q=80"
+    },
+    {
+      "id": "under-armour",
+      "name": "Under Armour",
+      "details": "For Under Armour, the only way out of a hard spot is to muddle through it. The athletic apparel maker on Tuesday unveiled its new advertising campaign slogan: “The Only Way Is Through.”",
+      "image": "https://images.unsplash.com/photo-1604726923839-606d2f0e0870?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2467&q=80"
+    }
   ],
   "profile": {
     "name": "acondarco"
