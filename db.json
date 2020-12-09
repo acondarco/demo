@@ -24,30 +24,6 @@
       "name": "Janssen",
       "details": "We believe challenging something is the best way to change it. That’s why, in over 150 countries, we bring together the most creative minds and cutting-edge technology to help treat, cure, stop, and prevent some of the most complex diseases of our time.",
       "image": "janssen.png"
-    },
-    {
-      "id": "legend-biotech",
-      "name": "Legend Biotech",
-      "details": "Dedicated to quality and driven by excellence, we are committed to improving the lives of patients worldwide. We are steadfast in our goal to develop innovative cellular therapies that bring us closer to a cure.",
-      "image": "legend-biotech.png"
-    },
-    {
-      "id": "novartis",
-      "name": "Novartis",
-      "details": "Novartis is a global healthcare company based in Switzerland that provides solutions to address the evolving needs of patients worldwide.",
-      "image": "novartis.png"
-    },
-    {
-      "id": "pfizer",
-      "name": "Pfizer",
-      "details": "Pfizer Inc. is an American multinational pharmaceutical corporation. It is one of the world's largest pharmaceutical companies and ranked 57 on the 2018 Fortune 500 list of the largest United States corporations by total revenue.",
-      "image": "pfizer.png"
-    },
-    {
-      "id": "pierre-fabre",
-      "name": "Pierre Fabre",
-      "details": "Work for Pierre Fabre, be true to your nature We develop tomorrow's prescription drugs and products with the inexhaustible resources of our imagination. There is no task more exciting than this!",
-      "image": "pierre-fabre.png"
     }
   ],
   "profile": {
